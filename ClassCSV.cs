@@ -108,7 +108,7 @@ namespace csharp_lista_indirizzi
             $"Cognome: {this.surname} \n" +
             $"Via: {this.street} \n" +
             $"Città: {this.city} \n" +
-            $"Provincia: {this.province} \n" +
+            $"Stato: {this.province} \n" +
             $"Zip: {this.zip} \n";
 
             return addressList;
